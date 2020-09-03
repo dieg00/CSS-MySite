@@ -3,10 +3,6 @@ body {
 	padding: 0;
 }
 
-div {
-	background-color: lightgreen;
-}
-
 h1 {
 	margin: 0;
 	padding: 0;
@@ -15,4 +11,20 @@ h1 {
 p {
 	margin: 0;
 	padding: 0;
+}
+
+.bottom-container {
+	background-color: blue;
+	height: 200px;
+	width: 200px;
+}
+
+.middle-container {
+	background-color: red;
+	height: 200px;
+	width: 200px;
+}
+
+.top-container {
+	background-color: lightgreen;
 }
